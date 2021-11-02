@@ -19,4 +19,4 @@ run by pressing the F5 key
 <br>
 
 <hr>
-## OBS: To contribute to the project, read the instructions.
+## OBS: To contribute to the project
