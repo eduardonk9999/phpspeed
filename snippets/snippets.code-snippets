@@ -1,0 +1,20 @@
+{
+  "for": {
+    "prefix": "for",
+    "description": "loop for",
+    "scope": "php",
+    "body": [
+      "for($i = 0; $i < $variable; $i++) {}",
+    ],
+  },
+
+  "foreach": {
+    "prefix": "foreach",
+    "description": "loop foreach",
+    "scope": "php",
+    "body": [
+      "foreach($variables as $variable) {}",
+    ],
+  },
+  
+}
